@@ -51,7 +51,7 @@ Both the high-level module and adaptive corrector are implemented as causal tran
 
 ## 📦 Code
 
-Code will be released after acceptance. Stay tuned!
+- **GitHub Repository**: [https://github.com/LeapLabTHU/UltraHiT](https://github.com/LeapLabTHU/UltraHiT)
 
 ## 📝 Citation
 
